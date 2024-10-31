@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n\ Class\ untuk\ menyimpan\ informasi\ peserta\ lelang\r\n
+comment1.params=nama\ kontak
+comment1.target=Person(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNama()
+comment3.params=
+comment3.target=java.lang.String\ getKontak()
+comment4.params=
+comment4.target=java.util.HashMap\ getPenawaran()
+comment5.params=namaItem\ harga
+comment5.target=void\ tambahPenawaran(java.lang.String,\ double)
+numComments=6

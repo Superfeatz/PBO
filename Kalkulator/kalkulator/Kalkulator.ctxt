@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Kalkulator
+comment1.params=
+comment1.target=Kalkulator()
+comment2.params=
+comment2.target=void\ mulai()
+comment3.params=
+comment3.target=void\ tampilkanMenu()
+comment4.params=a\ b
+comment4.target=double\ tambah(double,\ double)
+comment5.params=a\ b
+comment5.target=double\ kurang(double,\ double)
+comment6.params=a\ b
+comment6.target=double\ kali(double,\ double)
+comment7.params=a\ b
+comment7.target=double\ bagi(double,\ double)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=AuctionSystem
+comment0.text=\r\n\ Class\ utama\ yang\ mengelola\ sistem\ lelang\r\n
+comment1.params=
+comment1.target=AuctionSystem()
+comment2.params=nama\ kontak
+comment2.target=void\ daftarPeserta(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Mendaftarkan\ peserta\ baru\r\n
+comment3.params=nama\ deskripsi\ hargaAwal
+comment3.target=void\ tambahItem(java.lang.String,\ java.lang.String,\ double)
+comment3.text=\r\n\ Menambahkan\ item\ baru\ untuk\ dilelang\r\n
+comment4.params=namaPeserta\ namaItem\ hargaTawar
+comment4.target=void\ lakukanPenawaran(java.lang.String,\ java.lang.String,\ double)
+comment4.text=\r\n\ Melakukan\ penawaran\ untuk\ suatu\ item\r\n
+comment5.params=namaItem
+comment5.target=void\ tutupLelang(java.lang.String)
+comment5.text=\r\n\ Menutup\ lelang\ untuk\ suatu\ item\r\n
+comment6.params=
+comment6.target=void\ tampilkanItemLelang()
+comment6.text=\r\n\ Menampilkan\ semua\ item\ yang\ sedang\ dilelang\r\n
+comment7.params=namaPeserta
+comment7.target=void\ tampilkanRiwayatPenawaran(java.lang.String)
+comment7.text=\r\n\ Menampilkan\ riwayat\ penawaran\ seorang\ peserta\r\n
+numComments=8
