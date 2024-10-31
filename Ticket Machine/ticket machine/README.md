@@ -48,15 +48,6 @@ mesin.cetakTiket();
 - Penanganan stok habis
 - Pesan error yang informatif
 
-## Pengembangan Selanjutnya
-Fitur yang bisa ditambahkan:
-1. Multiple jenis tiket
-2. Sistem membership
-3. Diskon dan promo
-4. Pembayaran digital
-5. Pencetakan report penjualan
-6. Interface grafis
-
 ## Debug Mode
 Untuk administrator:
 1. `cekTotal()` - Melihat total pendapatan
