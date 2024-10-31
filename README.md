@@ -5,3 +5,5 @@
 - Kalkulator sederhana
 - Ticket Machine
 - Auction System
+- Tech Support System
+- World of Zuul
