@@ -3,12 +3,9 @@
 Sistem Technical Support sederhana yang dibangun menggunakan Java. Sistem ini menyediakan antarmuka interaktif untuk membantu pengguna dengan masalah teknis umum.
 
 ## Daftar Isi
-- [Persyaratan Sistem](#persyaratan-sistem)
-- [Instalasi](#instalasi)
 - [Penggunaan](#penggunaan)
 - [Struktur Project](#struktur-project)
 - [Fitur](#fitur)
-- [Pengembangan](#pengembangan)
 
 ## Penggunaan
 1. Klik kanan pada class TechSupportSystem
