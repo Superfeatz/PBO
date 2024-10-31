@@ -10,20 +10,6 @@ Sistem lelang sederhana yang diimplementasikan dalam bahasa Java untuk BlueJ.
 - Validasi penawaran
 - Multiple item lelang
 
-## Persyaratan Sistem
-- Java Development Kit (JDK) 8 atau lebih tinggi
-- BlueJ IDE
-
-## Cara Instalasi
-1. Buka BlueJ
-2. Buat project baru
-3. Buat class-class yang diperlukan:
-   - AuctionSystem
-   - Item
-   - Person
-4. Copy-paste source code ke masing-masing class
-5. Compile semua class
-
 ## Cara Penggunaan
 1. Buat objek AuctionSystem baru
 2. Gunakan method yang tersedia:
