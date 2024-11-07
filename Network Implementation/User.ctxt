@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=User
+comment1.params=username\ network
+comment1.target=User(java.lang.String,\ Network)
+comment2.params=content
+comment2.target=void\ createPost(java.lang.String)
+comment3.params=post
+comment3.target=void\ likePost(Post)
+comment4.params=user
+comment4.target=void\ follow(User)
+comment5.params=
+comment5.target=java.lang.String\ getUsername()
+comment6.params=
+comment6.target=java.util.List\ getPosts()
+comment7.params=
+comment7.target=java.util.List\ getFollowing()
+numComments=8
