@@ -1,5 +1,3 @@
-# Dokumentasi Simple Social Network
-
 ## Deskripsi
 
 Latihan ini mensimulasikan aplikasi jejaring sosial skala kecil dengan mengelola pengguna dan interaksi mereka melalui postingan dan suka.
