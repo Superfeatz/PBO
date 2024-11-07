@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=RentalSystem
+comment1.params=
+comment1.target=RentalSystem()
+comment2.params=vehicle
+comment2.target=void\ addVehicle(Vehicle)
+comment3.params=customer
+comment3.target=void\ addCustomer(Customer)
+comment4.params=vehicle\ customer\ rentalDate\ days
+comment4.target=void\ rentVehicle(Vehicle,\ Customer,\ java.lang.String,\ int)
+comment5.params=
+comment5.target=void\ displayAvailableVehicles()
+comment6.params=
+comment6.target=void\ displayRentals()
+comment7.params=
+comment7.target=void\ showMenu()
+comment8.params=
+comment8.target=void\ processRental()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10
