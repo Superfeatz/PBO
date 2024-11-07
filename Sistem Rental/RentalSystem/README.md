@@ -104,11 +104,4 @@ Proyek terdiri dari beberapa kelas utama yang saling terhubung:
 ![Screenshot (153)](https://github.com/user-attachments/assets/925604fb-9d45-4106-b202-940e5e4bfea7)
 
 
-## Pengembangan Selanjutnya
-Beberapa fitur yang dapat ditambahkan untuk pengembangan:
-1. Sistem pembayaran
-2. Pengembalian mobil
-3. Laporan dan riwayat transaksi
-4. Database untuk penyimpanan data
-5. Interface grafis (GUI)
 
