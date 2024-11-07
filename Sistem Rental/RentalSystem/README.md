@@ -101,10 +101,8 @@ Proyek terdiri dari beberapa kelas utama yang saling terhubung:
    ```
 
 ## Contoh Output
-```
 ![Screenshot (153)](https://github.com/user-attachments/assets/925604fb-9d45-4106-b202-940e5e4bfea7)
 
-```
 
 ## Pengembangan Selanjutnya
 Beberapa fitur yang dapat ditambahkan untuk pengembangan:
