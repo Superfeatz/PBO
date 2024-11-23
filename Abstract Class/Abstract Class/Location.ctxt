@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Location
+comment1.params=row\ col
+comment1.target=Location(int,\ int)
+comment2.params=obj
+comment2.target=boolean\ equals(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=int\ hashCode()
+comment5.params=
+comment5.target=int\ getRow()
+comment5.text=\r\n\ @return\ The\ row.\r\n
+comment6.params=
+comment6.target=int\ getCol()
+comment6.text=\r\n\ @return\ The\ column.\r\n
+numComments=7
