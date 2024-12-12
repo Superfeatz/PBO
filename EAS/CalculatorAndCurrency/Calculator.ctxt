@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Calculator
+comment1.params=num1
+comment1.target=void\ setNum1(double)
+comment2.params=num2
+comment2.target=void\ setNum2(double)
+comment3.params=operator
+comment3.target=void\ setOperator(char)
+comment4.params=
+comment4.target=double\ calculate()
+comment5.params=
+comment5.target=void\ reset()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

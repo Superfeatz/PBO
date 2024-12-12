@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Converter
+comment1.params=from\ to
+comment1.target=double\ getConversionRate(java.lang.String,\ java.lang.String)
+comment2.params=amount\ from\ to
+comment2.target=double\ convert(double,\ java.lang.String,\ java.lang.String)
+numComments=3

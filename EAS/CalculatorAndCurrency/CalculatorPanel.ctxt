@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CalculatorPanel
+comment1.params=
+comment1.target=CalculatorPanel()
+comment2.params=background\ foreground
+comment2.target=void\ setColors(java.awt.Color,\ java.awt.Color)
+numComments=3

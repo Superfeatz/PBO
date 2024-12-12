@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CalculatorAndConverterGUI
+comment1.params=
+comment1.target=CalculatorAndConverterGUI()
+comment2.params=
+comment2.target=void\ showCurrencyInfo()
+comment3.params=panelName\ contentPanel
+comment3.target=void\ showPanel(java.lang.String,\ javax.swing.JPanel)
+comment4.params=
+comment4.target=void\ setDarkMode()
+comment5.params=
+comment5.target=void\ setLightMode()
+numComments=6
